@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d71cdee-9980-496a-a1af-2f393aca5be8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ACM.py/1011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.py/1223.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.py/1040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACM.py/1010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACM.py/1010.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,56 +24,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1020.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ACM.py/1020.py">
+      <file leaf-file-name="1028.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACM.py/1028.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+            <state relative-caret-position="192">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1021.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ACM.py/1021.py">
+      <file leaf-file-name="1036.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACM.py/1036.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="72">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1022.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ACM.py/1022.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="17" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1023.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ACM.py/1023.py">
+      <file leaf-file-name="1039.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACM.py/1039.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1024.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ACM.py/1024.py">
+      <file leaf-file-name="1040.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ACM.py/1040.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1025.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ACM.py/1025.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="96">
+              <caret line="4" column="7" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -134,12 +111,23 @@
         <option value="$PROJECT_DIR$/ACM.py/1023.py" />
         <option value="$PROJECT_DIR$/ACM.py/1024.py" />
         <option value="$PROJECT_DIR$/ACM.py/1025.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1026.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1027.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1028.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1029.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1030.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1031.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1033.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1032.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1035.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1036.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1039.py" />
+        <option value="$PROJECT_DIR$/ACM.py/1040.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="851" />
-    <option name="y" value="6" />
+    <option name="x" value="940" />
     <option name="width" value="985" />
     <option name="height" value="1040" />
   </component>
@@ -169,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1025">
-    <configuration name="1021" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1040">
+    <configuration name="1031" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ACM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,13 +170,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1031.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1022" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1032" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ACM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,13 +188,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1022.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1023" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1035" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ACM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,13 +206,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1035.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1024" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1039" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ACM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,13 +224,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1039.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1025" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1040" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ACM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,26 +242,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ACM.py/1040.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.1022" />
-      <item itemvalue="Python.1021" />
-      <item itemvalue="Python.1023" />
-      <item itemvalue="Python.1024" />
-      <item itemvalue="Python.1025" />
+      <item itemvalue="Python.1031" />
+      <item itemvalue="Python.1032" />
+      <item itemvalue="Python.1035" />
+      <item itemvalue="Python.1039" />
+      <item itemvalue="Python.1040" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1025" />
-        <item itemvalue="Python.1024" />
-        <item itemvalue="Python.1023" />
-        <item itemvalue="Python.1021" />
-        <item itemvalue="Python.1022" />
+        <item itemvalue="Python.1040" />
+        <item itemvalue="Python.1039" />
+        <item itemvalue="Python.1035" />
+        <item itemvalue="Python.1032" />
+        <item itemvalue="Python.1031" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="5" width="788" height="832" extended-state="0" />
+    <frame x="752" y="0" width="788" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.011627907" />
@@ -315,104 +303,27 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.011627907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.186722" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ACM.py/1022.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="17" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1023.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1024.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1011.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="11" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1013.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1014.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1015.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1223.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1016.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.py/1018.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="14" lean-forward="true" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ACM.py/1019.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -688,8 +599,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ACM.py/1025.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1029.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1030.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1031.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1032.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1035.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1028.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1036.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1039.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.py/1040.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="7" selection-end-line="14" />
         </state>
       </provider>
     </entry>
